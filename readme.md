@@ -169,6 +169,8 @@ gpg --armor --export %LONG_ID%
 
 and post the signature to a keyserver: http://keyserver.ubuntu.com:11371/
 
+AND http://pgp.mit.edu:11371/
+
 1. Select "Submit Key"
 2. Paste in the exported public key
 3. Click on "Submit Public Key".
